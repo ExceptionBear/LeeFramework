@@ -1,3 +1,5 @@
 [user]
 	name = Lee
 	email = 345017275@qq.com
+[push]
+	default = simple
